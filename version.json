@@ -1,1 +1,7 @@
-2.0.0
+{
+    "version": "2.0.0",
+    "url": "https://example.com/downloads/simineq_editor_1.2.1.zip",
+    "notes": "### 进行了大更新,自己探索吧",
+    "required": true,
+    "size": 1024000,
+}
